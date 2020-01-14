@@ -19,7 +19,7 @@ $ ./patcher.py <path_to_chrome_profile_preferences_file>
 for example,
 
 ```
-$ ./patcher.py "${HOME}/.config/google-chrome/Default/c"
+$ ./patcher.py "${HOME}/.config/google-chrome/Default/Preferences"
 Preferences has been backup to /tmp/chrome_pfile_backup
 Loading preferences...
 Patching preferences...
