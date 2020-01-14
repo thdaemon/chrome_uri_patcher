@@ -25,9 +25,13 @@ Loading preferences...
 Patching preferences...
 ```
 
-> Your chrome profile path may not be at this location
+> Your Chrome profile path may not be at this location. Chrome Dev might be at "$ {HOME}/.Config/google-chrome-unstable/Default/Preferences", and Chromium might be at "${HOME}/.Config/chromium/Default/Preferences"
 >
 > If a problem occurs, you can restore the file with the backup file
+
+enjoy.
+
+![](assert/screenshot.png)
 
 # 中文说明：Chrome URI 修补器 (URI 卫士)
 
@@ -59,3 +63,5 @@ Patching preferences...
 > 你的 Chrome profile 路径未必在这个位置。Chrome Dev 可能在 "${HOME}/.config/google-chrome-unstable/Default/Preferences"，而 Chromium 可能在 "${HOME}/.config/chromium/Default/Preferences"
 >
 > 如果发生问题，你可以用备份的文件进行恢复
+
+享受
